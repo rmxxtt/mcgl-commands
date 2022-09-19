@@ -1,7 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Поиск команд</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Поиск команд</router-link>
   </nav>
   <router-view/>
 </template>
